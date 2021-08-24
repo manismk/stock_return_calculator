@@ -4,7 +4,7 @@
 This is an vanila js app where you can enter your stock purchase price ,stock quantity and stock current price of stock. It will tell your return in percentage and return in amount.
 
 ### Screenshot
-![](./Stoct Return Calculator.png)
+![](./screenshot.png)
 
 ### Link
 [Live demo](https://stock-return.netlify.app/)
