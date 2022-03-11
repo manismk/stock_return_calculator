@@ -13,7 +13,6 @@ This is an vanila js app where you can enter your stock purchase price ,stock qu
  - Html
  - CSS
  - Javascript
- - Flexbox
  - Responsive
 
 ### What I learned.
